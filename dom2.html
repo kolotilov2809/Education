@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+</head>
+<body>
+
+
+    <!-- <button onclick="alert('Привет!')">Нажми на меня</button>
+    <button onclick="buttonClick()">Нажми на меня</button>
+    <input type="text" id="input" value="???">
+    <button onclick="buttonClicck()">Нажми на меня</button>
+    <input type="text" id="input" value="???"> -->
+    <!-- <button onclick="buttonClicksqr()">Нажми на меня</button>
+    <input type="text" id="input" placeholder="Введите число!"> -->
+    <!-- <button onclick="buttonClick()">Нажми на меня</button>
+    <input type="text" id="input1" value="!!!"><input type="text" id="input2" value="???"> -->
+    <!-- <input type="button" onclick="buttonClick(this)" value="Нажми на меня"> -->
+    <!-- <button onclick="buttonClick()">Нажми на меня</button>
+    <input type="text" id="input" value="Какой-то текст!"> -->
+    <!-- <button onclick="button1Click()">Заблокировать</button>
+    <button onclick="button2Click()">Отблокировать</button>
+    <input type="text" id="input" value="Какой-то текст!"> -->
+    <!-- <button onclick="buttonClick()">Нажми на меня</button> -->
+    <!-- <button onmouseover="buttonClick()">Наведи на меня</button> -->
+    <!-- <button ondblclick="buttonClick()">Double click</button> -->
+    <!-- <div onmouseout="buttonClick()" id="box2">Наведи на меня мышь - а потом убери!</div> -->
+    <!-- <input type="text" value="Ку-ку" id="test">
+    <button onclick="go()">Нажми на меня!</button> -->
+    <!-- <input type="text" value="Ку-ку" id="test">
+    <button onclick="buttonClick()">Нажми на меня!</button> -->
+    <!-- <img src="1.jpg" width=150 id="test">
+    <button onclick="buttonClick()">Нажми на меня!</button> -->
+
+    <!-- при нажатии на инпут происходит алерт с текстом из инпута -->
+    <!-- <input type="text" value="Нажми на меня!" onfocus="go(this)" class=""> -->
+
+    <!-- замена текста в инпуте и обратно -->
+    <!-- <input type="text" value="Нажми на меня!" onfocus="go(this)" onblur="stop(this)" class=""> -->
+
+    <!-- замена названия кнопки -->
+    <!-- <input type="submit" onclick="go(this)" value="Нажми меня"> -->
+
+    <!-- замена названия и блокировка -->
+    <!-- <input type="submit" onclick="go(this)" value="Нажми меня"> -->
+
+    <!-- замена картинки по наведению -->
+    <!-- <br>
+    <img src="1.jpg" width=150 id="test" onmouseover="over(this)" onmouseout="out(this)"> -->
+
+    <!-- по нажатию на кнопку смена цвета текста в инпуте -->
+    <!-- <input type="text" value="Ку-ку" id="test">
+    <button onclick="go()">Нажми на меня!</button> -->
+
+    <!-- скрывает и показывает инпут -->
+    <!-- <input type="text" value="Ку-ку" id="test" style="display: inline-block;">
+	<button onclick="hide()">Нажми на меня!</button>
+	<button onclick="show()">Нажми потом на меня!</button> -->
+
+    <!-- смена цвета и текста в инпуте по нажатию на кнпоку -->
+    <!-- <input type="text" value="Ку-ку" id="test">
+    <button onclick="go()">Нажми на меня!</button>-->
+
+    <!-- заблокировать инпут + появление инпута для разблокировки -->
+<!--     <input id="block" type="submit" onclick="block(this)" value="Снова нажимай">
+    <input id='unblock' type="submit" onclick="unblock('button')" value="Нажми чтобы разблокировать" style="display: none;"> -->
+
+    <!-- кнопка считает количество нажатий по ней -->
+    <!-- <input type="submit" onclick="go(this)" value="0"> -->
+
+    <!-- по нажатию кнопки инпут слева исчезает и появляется справа -->
+<!--     <input type="text" value="Ку-ку" id="test">
+	<button onclick="go()">Нажми на меня!</button> -->
+
+    <!-- показывает имя класса инпута -->
+<!--     <input type="text" value="Ку-ку" id="test" class="eee www ddd">
+	<button onclick="go()">Нажми на меня!</button> -->
+
+    <!-- По нажатию на кнопку в нижнем инпуте появится квадрат числа из верхнего инпута. -->
+<!--     <input type="text" value="" placeholder="Введите число!" id="test">
+	<input id="result" value="Здесь появится результат." disabled="">
+	<button onclick="go()">Нажми на меня!</button> -->
+
+    <!-- По нажатию на кнопку в нижнем инпуте появится квадрат числа из верхнего инпута. Если введено не число - должна показаться ошибка -->
+<!--     <input type="text" value="" placeholder="Введите число!" id="test"><br><br>
+	<input id="result" value="Здесь появится результат." disabled=""><br><br>
+	<button onclick="go()">Нажми на меня!</button> -->
+
+    <!-- Обратите внимание на курсор в различных состояниях -->
+    <!-- <input type="submit" onclick="go(this)" value="Нажми на меня!"> -->
+
+    <!-- <input type="text" value="0+1-/*16804" id="input">
+	<br><br>
+	<input type="submit" onclick="add('+')" value="Я добавлю +"><br>
+	<input type="submit" onclick="add('-')" value="Я добавлю -"><br>
+	<input type="submit" onclick="add('/')" value="Я добавлю /"><br>
+	<input type="submit" onclick="add('*')" value="Я добавлю *"><br>
+	<br><br>
+	<input type="submit" onclick="add('1')" value="1"><br>
+	<input type="submit" onclick="add('2')" value="2"><br>
+	<input type="submit" onclick="add('3')" value="3"><br>
+	<input type="submit" onclick="add('4')" value="4"><br>
+	<input type="submit" onclick="add('5')" value="5"><br>
+	<input type="submit" onclick="add('6')" value="6"><br>
+	<input type="submit" onclick="add('7')" value="7"><br>
+	<input type="submit" onclick="add('8')" value="8"><br>
+	<input type="submit" onclick="add('9')" value="9"><br>
+	<input type="submit" onclick="add('0')" value="0"><br> -->
+
+    <!-- <p id="test">Текст абзаца.</p>
+    <input type="submit" onclick="func()"> -->
+
+<!--     <p id="test">Текст абзаца.</p>
+    <input type="submit" onclick="func()"> -->
+
+    <!-- Даны картинки. Привяжите к каждой картинке событие, чтобы по клику на картинку алертом выводился ее src -->
+<!--     <img src="1.jpg" width="150" height="150">
+    <img src="2.jpg" width="150" height="150"> -->
+
+    <!-- Даны ссылки. Привяжите всем ссылкам событие - по наведению на ссылку в атрибут title запишется ее текст -->
+<!--     <a href="content.html" title="">Перейти по ссылке</a><br>
+    <a href="content.html" title="">Go to ssыlka</a> -->
+
+    <!-- Привяжите всем ссылкам событие - по наведению на ссылку в конец ее текста дописывается ее href в круглых скобках -->
+<!--     <a href="http://ya.ru" title="">Текст первой ссылки</a>
+    <a href="http://tut.by" title="">Текст второй ссылки</a>
+    <a href="http://google.com" title="">Текст третьей ссылки</a> -->
+
+    <!-- Привяжите всем инпутам следующее событие - по потери фокуса каждый инпут выводит свое value в абзац с id="test" -->
+<!--     <input type="text" value="1">
+    <input type="text" value="2">
+    <input type="text" value="3">
+    <p id="test"></p> -->
+
+    <!-- Для всех инпутов сделайте так, чтобы они выводили свой value алертом при нажатии на любой из них, но только по первому нажатию. Повторное нажатие на инпут не должно вызывать реакции. -->
+<!--     <input type="text" value="1">
+    <input type="text" value="2">
+    <input type="text" value="3"> -->
+
+    <!-- Даны абзацы с числами. По нажатию на абзац в нем должен появится квадрат числа, которое он содержит -->
+<!--     <p>2</p>
+    <p>4</p>
+    <p>6</p> -->
+
+    <!-- Даны инпуты. Сделайте так, чтобы все инпуты по потери фокуса проверяли свое содержимое на правильное количество символов. Сколько символов должно быть в инпуте, указывается в атрибуте data-length. Если вбито правильное количество, то граница инпута становится зеленой, если неправильное - красной. -->
+<!--     <input type="text" data-length="4">
+    <input type="text" data-length="7">
+    <input type="text" data-length="9"> -->
+
+    <!-- Даны дивы. По первому нажатию на каждый див он красится красным фоном, по второму красится обратно и так далее каждый клик происходит чередование фона. Сделайте так, чтобы было две функции: одна красит в красный цвет, другая в зеленый и они сменяли друг друга через removeEventListener -->
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+        
+
+    <script src="dom2.js"></script>
+    
+</body>
+</html>

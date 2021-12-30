@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a_array"
+			],
+			[
+				"x",
+				"x_array"
+			],
+			[
+				"my",
+				"my_array_0"
+			],
+			[
+				"calc",
+				"calculateVolume"
+			],
+			[
+				"re",
+				"returnData"
+			],
+			[
+				"leve",
+				"levelUp"
+			],
+			[
+				"return",
+				"return"
+			],
+			[
+				"new",
+				"newCourse"
+			],
+			[
+				"cou",
+				"course"
+			],
+			[
+				"img",
+				"imgOne"
+			],
+			[
+				"fi",
+				"fillStyle"
+			],
+			[
+				"fe",
+				"female"
+			],
+			[
+				"ne",
+				"newAge"
+			],
+			[
+				"D",
+				"DIFFERENT"
+			],
+			[
+				"W",
+				"WHITE"
+			],
+			[
+				"age",
+				"ages"
+			],
+			[
+				"che",
+				"checkAge"
+			],
+			[
+				"Em",
+				"Employees"
+			],
+			[
+				"ma",
+				"matrixTwo"
+			],
+			[
+				"au",
+				"author_name"
+			],
+			[
+				"r",
+				"RED"
+			],
+			[
+				"dm",
+				"dmgTime"
+			],
+			[
+				"LED",
+				"LEDNOW"
+			],
+			[
+				"led",
+				"LEDON"
+			],
+			[
+				"reg",
+				"regdata"
+			],
+			[
+				"h",
+				"hrs"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"S",
+				"_SESSION"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"c",
+				"channel"
+			],
+			[
+				"upload",
+				"uploadfile"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"pre"
+			],
+			[
+				"eve",
+				"eventClear"
+			],
+			[
+				"drop",
+				"dropZone"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"con",
+				"content_type"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"msg",
+				"msg_arr"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mess",
+				"message-form"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ms",
+				"msg_id"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"session",
+				"session_decode"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"sqlite_",
+				"sqlite_escape_string"
+			],
+			[
+				"sqlite",
+				"sqlite_escape_string"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"conten",
+				"align-content\tproperty"
+			],
+			[
+				"align-",
+				"align-items\tproperty"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"alg",
+				"align-items\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"pass",
+				"pass_0"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"fputs",
+				"fputs"
+			],
+			[
+				"chat",
+				"chat"
+			],
+			[
+				"wi",
+				"write"
+			],
+			[
+				"statu",
+				"status_code"
+			],
+			[
+				"w_us",
+				"w_userpic"
+			],
+			[
+				"qu",
+				"query_arr"
+			],
+			[
+				"key",
+				"keyassign"
+			],
+			[
+				"fin",
+				"finding"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"q",
+				"query_arr"
+			],
+			[
+				"query",
+				"query_arr"
+			],
+			[
+				"find",
+				"find_arr"
+			],
+			[
+				"te",
+				"TEMP"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"value",
+				"value_last"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"da",
+				"data1"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"db",
+				"dbname"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"mysqli_",
+				"mysqli_fetch"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"s",
+				"str1"
+			],
+			[
+				"m",
+				"maxG"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"E",
+				"ERROR"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"o",
+				"off_comp"
+			],
+			[
+				"pad",
+				"padRotY"
+			],
+			[
+				"padR",
+				"padRotY"
+			],
+			[
+				"se",
+				"Serial"
+			],
+			[
+				"pa",
+				"padRotX"
+			],
+			[
+				"digi",
+				"digitalWrite"
+			],
+			[
+				"is",
+				"isAccelerometer"
+			],
+			[
+				"alert",
+				"alertTriggered"
+			],
+			[
+				"last",
+				"lastBatteryValue"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"Re",
+				"Relay_Move_Backwards_pin"
+			],
+			[
+				"Ne",
+				"NeonLight_G_pin"
+			],
+			[
+				"HC",
+				"HC_SR_04_Trigger_pin"
+			],
+			[
+				"I",
+				"INPUT"
+			],
+			[
+				"Rel",
+				"Relay_Move_Forwards_pin"
+			],
+			[
+				"Rela",
+				"Relay_Rotate_Right_pin"
+			],
+			[
+				"BL",
+				"Blinker_Right_pin"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"draw",
+				"drawGUI"
+			],
+			[
+				"0x",
+				"0xff2255"
+			],
+			[
+				"un",
+				"universalWindow"
+			],
+			[
+				"modem",
+				"modem_message"
+			],
+			[
+				"category",
+				"categoryName"
+			],
+			[
+				"categ",
+				"categoryBackground"
+			],
+			[
+				"li",
+				"libraries"
+			],
+			[
+				"UUI",
+				"UUIDLeast"
+			],
+			[
+				"Att",
+				"AttributeName"
+			],
+			[
+				"coo",
+				"cooked_fish"
+			],
+			[
+				"П",
+				"Печёный"
+			],
+			[
+				"buy",
+				"buyItem"
+			],
+			[
+				"lib",
+				"libraries"
+			],
+			[
+				"librar",
+				"libraries"
+			],
+			[
+				"mar",
+				"marmor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 388.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/now/theme2task1.py",
+		"/C/Users/User/Desktop/now/theme2task2.py",
+		"/C/Users/User/Desktop/now/IMG_20211004_151339_985.jpg",
+		"/C/Program Files/Sublime/Data/Local/Session.sublime_session",
+		"/C/Users/Strelok/Documents/Arduino/bttest/test/test.ino",
+		"/E/soft/games/A Hat in Time/HatinTimeGame/Localization/CHN/collectibles.chn",
+		"/H/SOFT/proxy.txt",
+		"/D/TEMP/Дистанционное обучение/ShiryaevAlgBase1404.php",
+		"/H/SOFT/Program/FFmpeg/README_SNSS.txt",
+		"/H/SOFT/Program/FFmpeg/Scripts/out/volume01.py",
+		"/H/SOFT/Program/FFmpeg/Scripts/convert-mp4-to-mp3.py",
+		"/E/videos/Nice/out/volume01.py",
+		"/E/videos/Nice/convert-mp4-to-mp3.py",
+		"/E/videos/Nice/convert-mp4-to-mp3.sh",
+		"/D/TEMP/Дистанционное обучение/ShiryaevAlgBase0704.php",
+		"/D/TEMP/Дистанционное обучение/ShiryaevAlgBase1304.php",
+		"/E/BackUP/flash/BPT/3-4 IS/Миронов/OS/files/service.bat",
+		"/C/Users/Strelok/Desktop/createTask.bat",
+		"/C/Users/Strelok/Desktop/test.bat",
+		"/C/Users/Strelok/AppData/Local/Temp/scp28459/home/pi/photo/test.png",
+		"/E/BackUP/flash/BPT/3-4 IS/Хасанов/js/work08.html",
+		"/E/BackUP/flash/BPT/3-4 IS/Хасанов/js/code08.js",
+		"/E/BackUP/flash/BPT/3-4 IS/Хасанов/js/style.css",
+		"/E/BackUP/flash/BPT/3-4 IS/Хасанов/js/work01.html",
+		"/E/BackUP/flash/BPT/3-4 IS/Хасанов/js/code061.js",
+		"/D/python/photo/photo0000.png",
+		"/C/Users/Strelok/Desktop/ShiryaevEnglish0704.txt",
+		"/D/TEMP/Дистанционное обучение/ShiryaevAlgBase0604.php",
+		"/D/TEMP/Дистанционное обучение/tmp/ex_all_SHiryaev.php",
+		"/D/TEMP/Дистанционное обучение/tmp/ShiryaevOS0604.txt",
+		"/D/TEMP/Дистанционное обучение/ShiryaevOS0604.txt",
+		"/C/Users/Strelok/AppData/Local/Temp/scp37870/home/pi/test.jpg",
+		"/C/Games/Need for Speed Underground 2/d3d9.ini",
+		"/D/GAMES/mc/.minecraft/home/Realistik-1.12.2/config/mts.cfg",
+		"/C/Users/Strelok/Build/TestSpace_Data/app.info",
+		"/C/Users/Strelok/Build/TestSpace_Data/boot.config",
+		"/C/Users/Strelok/Desktop/SHiryaevEnglish2403.txt",
+		"/C/Users/Strelok/Desktop/SHiryaevNumMethods2303.py",
+		"/C/Users/Strelok/Desktop/ex_all_SHiryaev.php",
+		"/C/Users/Strelok/Desktop/easy.php",
+		"/C/Users/Strelok/Desktop/ex_1_SHiryaev.php",
+		"/D/python/helper.py",
+		"/D/DOWNLOADS/TORRENT/OK/mts.cfg",
+		"/D/python/runner/run.py",
+		"/C/Games/temp/helper.py",
+		"/D/python/tasker/runner/conf.py",
+		"/D/TEMP/game.txt",
+		"/D/python/helper",
+		"/H/BPT/3-4 IS/Миронов/БД/insert.sql",
+		"/H/BPT/3-4 IS/Миронов/БД/SHiryaev.sql",
+		"/H/BPT/3-4 IS/Миронов/БД/work03.sql",
+		"/D/TEMP/fwf.html",
+		"/D/TEMP/Дистанционное обучение/Психология1903",
+		"/E/Важно.txt",
+		"/E/soft/program/Programing/Arduino/btcar/btcar.ino",
+		"/C/Users/Strelok/Documents/Arduino/ledLent/ledLent.ino",
+		"/C/hsrv.txt",
+		"/D/GAMES/mc/.minecraft/home/mobs.txt",
+		"/D/GAMES/mc/.minecraft/home/Realistik-1.12.2/saves/Нет времени/customnpcs/quests/Сражение с монстрами/1.json",
+		"/D/python/tasker/main.py",
+		"/D/python/tasker/conf.py",
+		"/D/GAMES/mc/.minecraft/versions/Build_1.12.2/Build_1.12.2.json",
+		"/D/worldEdit.txt",
+		"/D/GAMES/mc/.minecraft/versions/1.12.2-LiteLoader1.12.2/1.12.2-LiteLoader1.12.2.json",
+		"/C/Users/Strelok/AppData/Roaming/.minecraft/versions/1.12.2-LiteLoader1.12.2/1.12.2-LiteLoader1.12.2.json",
+		"/D/GAMES/mc/.minecraft/versions/1.12.2-LiteLoader1.12.2-Forge 1.12.2/1.12.2-LiteLoader1.12.2-Forge 1.12.2.json",
+		"/H/TEMP/python/tasker/main.py",
+		"/D/GAMES/mc/.minecraft/TEMP/versions/Realistik_1.12.2/Realistik_1.12.2.json",
+		"/D/GAMES/mc/.minecraft/TEMP/versions/ZalupaCraft 1.12.2/ZalupaCraft 1.12.2.json",
+		"/C/Users/Strelok/Documents/Arduino/btcar/btcar.ino",
+		"/C/Users/Strelok/Documents/Arduino/bttest/test.ino",
+		"/D/python/tasker/runner/routes.py",
+		"/D/python/tasker/run.py",
+		"/E/СОФТ/ПРОГРАММЫ/Programing/Arduino/btcar/btcar.ino",
+		"/E/СОФТ/ПРОГРАММЫ/Programing/Arduino/BT_Car_beta.ino/BT_Car_beta/BT_Car_beta.ino",
+		"/D/MY WORK/arduino/new/ledLent.ino",
+		"/D/python/winRun.bat",
+		"/D/MY WORK/arduino/GyverTM1637.zip",
+		"/C/Users/Strelok/Documents/ap.reg",
+		"/C/Users/Strelok/Documents/Arduino/beep/melo.ino",
+		"/D/gnusmas",
+		"/D/MY WORK/arduino/sketchbook/clock/clock.ino",
+		"/E/СОФТ/ПРОГРАММЫ/Programing/Arduino/sketch_nov13a.ino/sketch_nov13a.ino.ino",
+		"/E/Games/Download/_start-example.bat",
+		"/D/www.txt",
+		"/D/python/testFlask/file/runner/testOnWin.py",
+		"/D/python/testFlask/file/runner/test.bat",
+		"/D/proxy",
+		"/D/python/testFlask/file/runner/run.py",
+		"/D/python/testFlask/file/run_files/script.bat",
+		"/D/DOWNLOADS/Telegram/mksds",
+		"/D/python/timer/main.py",
+		"/C/Games/A Hat in Time/HatinTimeGame/Localization/ESN/menus.esn",
+		"/D/TEMP/python/flask/conf.py",
+		"/D/TEMP/python/flask/main.py",
+		"/D/TEMP/точно ТЕМР/html/2/index.html",
+		"/D/MY WORK/html/chat/main.php",
+		"/C/Games/Freelancer/DATA/cameras.ini",
+		"/D/DOWNLOADS/Telegram/test.txt",
+		"/D/python/main.py",
+		"/D/GAMES/mc/.minecraft/versions/1.14.4-forge-28.1.109/1.14.4-forge-28.1.109.json",
+		"/D/MY WORK/new/python/flask/conf.py",
+		"/D/MY WORK/programing/python/flask/conf.py",
+		"/D/install .txt",
+		"/C/Users/Strelok/AppData/Local/Temp/_tc/Oscilloscope-1.0.8/readme.md",
+		"/D/MY WORK/programing/python/Lessons/udp/client.py",
+		"/D/MY WORK/new/python/runer/conf.py",
+		"/D/MY WORK/new/python/flask/main.py",
+		"/D/MY WORK/programing/python/Lessons/udp/server.py",
+		"/D/socketserver.txt",
+		"/D/DOWNLOADS/client.py",
+		"/C/Games/Server/rustds/_start-example.bat",
+		"/D/DOWNLOADS/TORRENT/Quadro.bat",
+		"/D/DOWNLOADS/server.py",
+		"/C/Games/Server/rustds/oxide/config/ScrapHeliStorage.json",
+		"/C/Games/Server/rustds/oxide/config/MushroomEffects.json",
+		"/C/Games/Server/rustds/oxide/config/BotSpawn.json",
+		"/C/Games/Server/rustds/oxide/config/ChinookDropRandomizer.json",
+		"/C/Games/Server/rustds/server/WELCOME/cfg/users.cfg",
+		"/C/Games/Server/rustds/oxide/config/Quests.json",
+		"/C/Games/Server/rustds/oxide/data/Economics.json",
+		"/C/Games/Server/rustds/oxide/config/HeliRide.json",
+		"/C/Games/Server/rustds/oxide/config/SimpleKillFeed.json",
+		"/C/Games/Server/rustds/oxide/config/SkipNightVote.json",
+		"/C/Games/Server/rustds/start.bat",
+		"/C/Games/Server/rustds/oxide/lang/en/Inbound.json",
+		"/C/Games/Server/rustds/oxide/lang/ru/Inbound.json",
+		"/C/Games/Server/rustds/oxide/lang/en/GatherControl.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "massive.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\ProgrammSNSS\\test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
